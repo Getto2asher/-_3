@@ -1,2 +1,2 @@
-country=input().split('')
-print(country, sep='\n')
+country = input().split("")
+print(country, sep="\n")
